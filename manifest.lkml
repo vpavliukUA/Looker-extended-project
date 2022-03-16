@@ -7,3 +7,7 @@ remote_dependency: base_project {
     value: "sub_new_test_connection"
   }
 }
+
+constant: db_connection {
+  value: "sub_new_test_connection"
+}
